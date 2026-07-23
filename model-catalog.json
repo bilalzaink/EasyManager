@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.07.23",
+  "generatedAt": "2026-07-23T00:00:00Z",
+  "models": [
+    { "brand": "Apple", "baseModel": "iPhone 16e", "isActive": true },
+    { "brand": "Samsung", "baseModel": "Galaxy A17", "fullModelName": "Samsung Galaxy A17" }
+  ]
+}
