@@ -4,6 +4,8 @@
   "generatedAt": "2026-07-23T00:00:00Z",
   "models": [
     { "brand": "Apple", "baseModel": "iPhone 16e", "isActive": true },
-    { "brand": "Samsung", "baseModel": "Galaxy A17", "fullModelName": "Samsung Galaxy A17" }
+    { "brand": "Samsung", "baseModel": "Galaxy A17", "fullModelName": "Samsung Galaxy A17" },
+    { "brand": "Google", "baseModel": "Pixel 9", "fullModelName": "Google Pixel 9" },
+    { "brand": "Google", "baseModel": "Pixel 9 Pro", "fullModelName": "Google Pixel 9 Pro" }
   ]
 }
